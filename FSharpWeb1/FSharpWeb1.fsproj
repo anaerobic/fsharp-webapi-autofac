@@ -111,8 +111,8 @@
   </ProjectExtensions>
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
-    <Compile Include="Models\Car.fs" />
-    <Compile Include="Controllers\CarsController.fs" />
+    <Compile Include="Models\Lift.fs" />
+    <Compile Include="Controllers\LiftsController.fs" />
     <Content Include="Web.config" />
     <Compile Include="AutofacCompositionRoot.fs" />
     <Compile Include="AutofacBuilder.fs" />
