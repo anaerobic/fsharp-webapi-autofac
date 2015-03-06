@@ -1,7 +1,7 @@
 namespace FSharpWeb1.Models
 
 [<CLIMutable>]
-type Lift =
-    {   Movement : string
-        Destroys : string }
-
+type Lift = 
+    { Id : int
+      Movement : string
+      Destroys : string }

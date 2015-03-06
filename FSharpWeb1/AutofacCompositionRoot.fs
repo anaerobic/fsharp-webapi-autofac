@@ -6,7 +6,6 @@ open System.Web.Http
 open System
 open Autofac
 open System.Web.Http.Controllers
-open FSharpWeb1.Controllers
 
 type AutofacCompositionRoot(container : Autofac.IContainer) = 
     interface IHttpControllerActivator with
