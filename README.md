@@ -1,6 +1,6 @@
 # fsharp-webapi-autofac
 
-F# is seriosuly cool.
+F# is seriously cool.
 
 ASP.NET Web API using Autofac Dependency Injection for controllers.
 
